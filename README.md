@@ -7,7 +7,7 @@
 
 
 
-## Oii eu sou Ronald Da Silva, Desenvolvedor Web Full-Stack de programação e tecnologia! <a href = "">< img src="https://giphy.com/embed/7NoNw4pMNTvgc" width="40" height="30"  
+## Oii eu sou Ronald Da Silva, Desenvolvedor Web Full-Stack de programação e tecnologia! <img src = "https://user-images.githubusercontent.com/112557309/193717647-ae73a25b-c47f-49c7-a8a1-95ee7e791a65.gif)"
 
 <div align="center">
   <a href="https://github.com/ronald-02">
