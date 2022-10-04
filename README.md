@@ -7,12 +7,12 @@
 
 
 
-## Oii eu sou Ronald Da Silva, Desenvolvedor Web Full-Stack de programação e tecnologia! <img src = "https://user-images.githubusercontent.com/112557309/193717647-ae73a25b-c47f-49c7-a8a1-95ee7e791a65.gif)"
+## Oii eu sou Ronald Da Silva, Desenvolvedor Web Full-Stack de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/ronald-02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald-02&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-02&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
