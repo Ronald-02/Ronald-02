@@ -7,7 +7,9 @@
 
 
 
-## Oii eu sou Ronald Da Silva, Desenvolvedor Web Full-Stack de programação e tecnologia!
+## Oii eu sou Ronald Da Silva, Desenvolvedor Web Full-Stack de programação e tecnologia! 
+<div style = "image"><br>
+<img align="right"height="150" alt="cat-computer" src="gato.gif">  
 
 <div align="center">
   <a href="https://github.com/ronald-02">
