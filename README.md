@@ -13,8 +13,8 @@
 
 <div>
     
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=Ronald-02&theme=great-gatsby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-02&theme=great-gatsby">
+  <img height= "220em" src= "https://github-readme-stats.vercel.app/api?username=Ronald-02&theme=great-gatsby">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-02&theme=great-gatsby">
   
 </div>
   
