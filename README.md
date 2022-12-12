@@ -1,3 +1,8 @@
+<img align="center" width="130%" alt="tech" src="tech.gif">
+
+
+
+
 ### Oi, Aqui é o Ronald 👋
 
 - 👨🏻‍💻 Estou estudando programação.
@@ -7,7 +12,7 @@
 
 
 
-## Oii eu sou Ronald Da Silva, Sejam Bem-Vindos! 
+## Oii eu sou Ronald Da Silva, Sejam Bem-Vindos Ao Meu Perfil! 
 <div style = "image"><br>
 <img align="right"height="150" alt="cat-computer" src="gato.gif">  
 
