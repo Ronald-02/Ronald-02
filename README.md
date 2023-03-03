@@ -40,7 +40,8 @@
 ### Outras ferramentas utilizadas:
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp; 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;    
     <hr>
   
 ### Estudando neste momento:
