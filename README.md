@@ -48,8 +48,8 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; <hr>
  
    <h2>Atividades representadas no gráfico:</h2>
-  
-  [![ Ronald's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ronald-02&theme=tokyo-night)](https://github.com/Ronald-02/github-readme-activity-graph)
+    
+  [![Ronald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronald-02&theme=react-dark)](https://github.com/ronald-02/github-readme-activity-graph)
   
   ##
  
