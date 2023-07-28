@@ -17,7 +17,7 @@
 <div>
     
   <img height= "200em" src= "https://github-readme-stats.vercel.app/api?username=Ronald-02&show_icons=true&theme=holi">
-  <img height="230em" width = "230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-02&layout=donut-vertical&theme=holi">
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-02&layout=donut&theme=holi">
   
 </div>
   
