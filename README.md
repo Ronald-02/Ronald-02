@@ -78,6 +78,17 @@
     </a>
   </div>
   <br>
+  <br>
+  <br>
+  <hr>
+  <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronald-02&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+  
 
 ![github-user-contribution](https://github.com/Ronald-02/Ronald-02/assets/112557309/dee1d9fe-368e-46d1-9f55-2a28980ef064)
 
