@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
-  Olá, meu nome é Ronald. Sou Desenvolvedor Full-Stack.
+ Olá, meu nome é Ronald. Sou Desenvolvedor Full-Stack.
   <br>
   <br>
      <img align="right" alt="Ronald-pic" height="170" width= style="border-radius:50px;" src="https://user-images.githubusercontent.com/112557309/193712509-142008b4-8347-4739-b5f2-2f47c67898c8.png">
@@ -27,10 +27,13 @@
   
   💻 Eu adoro a tecnologia e procuro aprender mais sobre a área.
   <br>
+  
   📚 Já desenvolvi alguns projetos para trabalho e até mesmo pessoal.
   <br>
-  💬 Pergunta-me qualquer coisa por <a href="https://github.com/ronald-02/ronald-02/issues" title="Issues">Aqui</a>
+  
+  💬 Pergunte-me qualquer coisa por <a href="https://github.com/ronald-02/ronald-02/issues" title="Issues">Aqui</a>
   <br>
+  
   📫 Entre em contato por aqui: <a href="mailto: ronaldtavares190@gmail.com">ronaldtavares190@gmail.com</a>
 </p>
 
