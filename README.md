@@ -27,7 +27,7 @@
   
   💻 Eu adoro a tecnologia e procuro aprender mais sobre a área.
   <br>
-  📚 Já desenvolvei alguns projetos para trabalho e até mesmo pessoal.
+  📚 Já desenvolvi alguns projetos para trabalho e até mesmo pessoal.
   <br>
   💬 Pergunta-me qualquer coisa por <a href="https://github.com/ronald-02/ronald-02/issues" title="Issues">Aqui</a>
   <br>
