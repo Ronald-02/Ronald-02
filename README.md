@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0189&height=120&section=header"/>
-
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ronald-02">
+ 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
