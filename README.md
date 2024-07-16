@@ -11,7 +11,7 @@
 
 <div>
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/ronald-da-silva-b70752248/" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/?size=512&id=13930&format=png"> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ronald-da-silva-dev/" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/?size=512&id=13930&format=png"> LinkedIn</a>
   <a href="https://www.instagram.com/ronaldsouzx/" title="Instagram Profile"><img width="22" src="https://img.icons8.com/?size=512&id=32323&format=png"> Instagram</a>
 </h5>
 <br>
