@@ -1,99 +1,185 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0189&height=120&section=header"/>
- 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/5530cc39-fc58-4ebb-a419-28922f568d8c)
+
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋🏼;+I´m+Ronald+Da+Silva....;Welcome+to+my+profile!&center=true&size=30&color=1e90ff">
+   
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋🏼;I´m+Ronald+Da+Silva..;+Welcome!&center=true&size=40&color=8A2BE2&font=Fira%20Code&width=500&height=100">
+
+   <img align ="right" src="https://komarev.com/ghpvc/?username=ronald-02&label=Profile%20views&color=0e75b6&style=flat" alt="ronald-02">
+
+
   </a>
 </h1>
 <div style = "image"><br>
-<img align="right"height="150" alt="cat-computer" src="gato.gif">  
+<img align="right"height="250" alt="cat-computer" src="gato.gif">  
+ 
+ <img src="https://github.com/user-attachments/assets/a74e0f90-d0d2-4336-bf70-83495d962410" alt="tenor" align="below" height="250">
 
+ 
 <div>
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/ronald-da-silva-dev/" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/?size=512&id=13930&format=png"> LinkedIn</a>
-  <a href="https://www.instagram.com/ronaldsouzx/" title="Instagram Profile"><img width="22" src="https://img.icons8.com/?size=512&id=32323&format=png"> Instagram</a>
+  <a href="https://www.linkedin.com/in/ronald-da-silva-dev/" title="LinkedIn Profile"><img width="80" src="https://img.icons8.com/?size=512&id=13930&format=png"> </a>
+  <a href="https://www.instagram.com/ronaldsouzx/" title="Instagram Profile"><img width="80" src="https://img.icons8.com/?size=512&id=32323&format=png"></a>
 </h5>
 <br>
 <p align="center">
- Olá, meu nome é Ronald. Sou Desenvolvedor Full-Stack.
+ <h1 align = center>Olá, sejam muito bem-vindos ao meu perfil.</h1>
   <br>
-  <br>
-     <img align="right" alt="Ronald-pic" height="170" width= style="border-radius:50px;" src="https://user-images.githubusercontent.com/112557309/193712509-142008b4-8347-4739-b5f2-2f47c67898c8.png">
+    
+ 🚀 Embarquei em uma jornada educacional ambiciosa, focando em Engenharia no Cefet/RJ e aprimorando minhas habilidades em desenvolvimento back-end.
 
-  🔬 Atualmente, estou estudando Programação.
-  <br>
-  
-  💻 Eu adoro a tecnologia e procuro aprender mais sobre a área.
-  <br>
-  
-  📚 Já desenvolvi alguns projetos para trabalho e até mesmo pessoal.
-  <br>
-  
-  💬 Pergunte-me qualquer coisa por <a href="https://github.com/ronald-02/ronald-02/issues" title="Issues">Aqui</a>
-  <br>
-  
-  📫 Entre em contato por aqui: <a href="mailto: ronaldtavares190@gmail.com">ronaldtavares190@gmail.com</a>
-</p>
+💻 Estou sempre em busca de novos desafios e aprendizados na área.
+
+🌐 Meu objetivo é criar soluções tecnológicas que façam a diferença.
+
+📚 Além disso, adoro compartilhar conhecimento e ajudar outros a crescer.
+
+💬 Pergunte-me qualquer coisa por aqui!
+
+📫 Entre em contato: [ronaldtavares190@gmail.com](mailto:ronaldtavares190@gmail.com)
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C#" height="25" src="https://img.icons8.com/?size=512&id=mhwmyz1eu7T5&format=png"></code>
-  <code><img title="Python" height="25" src="https://img.icons8.com/?size=512&id=13441&format=png"></code>
-  <code><img title="Javascript" height="25" src="https://img.icons8.com/?size=512&id=108784&format=png"></code>
-  <code><img title="HTML5" height="25" src="https://img.icons8.com/?size=512&id=20909&format=png"></code>
-  <code><img title="CSS" height="25" src="https://img.icons8.com/?size=512&id=21278&format=png"></code>
-  <code><img title="React" height="25" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png"></code>
-  <code><img title="AngularJS" height="25" src="https://img.icons8.com/?size=512&id=j9DnICNnlhGk&format=png"></code>
-  <code><img title="Git" height="25" src="https://img.icons8.com/?size=512&id=20906&format=png"></code>
-  <code><img title="MySQL" height="25" src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png"></code>
-  <code><img title="JQuery" height="25" src="https://img.icons8.com/?size=512&id=55215&format=png"></code>
-  <code><img title="Java" height="25" src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png"></code>
-  <code><img title="JSON" height="25" src="https://img.icons8.com/?size=512&id=114474&format=png"></code>
-  <code><img title="Unity" height="25" src="https://img.icons8.com/?size=512&id=IPzemd2v4Ubj&format=png"></code>
-  <code><img title="GitHub" height="25" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"></code>
-  <code><img title="npm" height="25" src="https://img.icons8.com/?size=512&id=24895&format=png"></code>
-  <code><img title="PHP" height="25" src="https://img.icons8.com/?size=512&id=pKaVdzbCJGgA&format=png"></code>
-  
-</p>
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/480/intellij-idea.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/706e6f22-9cbe-4e24-9853-35c931edfa3e" alt="Image"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/480/java-coffee-cup-logo.png" alt="Java"></code>
+<code><img height="40" width="40" src="https://camo.githubusercontent.com/1c242d141561009051ae0c43c49cb6f2112b21f8ee3f6be06933d57c411f8f0b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d353532313526666f726d61743d706e67"></code>
+<code><img height="40" width="40" src="https://camo.githubusercontent.com/a22bdd659d866fce12317b3787f17afa68417ee7debd1658729e22c9e3c1aed5/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d31313434373426666f726d61743d706e67"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://camo.githubusercontent.com/c50e68b70c7fd4b975ffcaa0e918836a41a7830066fe477511c7c27ec5d59651/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d415a4f5a4e6e59373368616a26666f726d61743d706e67"></code>
+<code><img height="40" width="40" src="https://camo.githubusercontent.com/e5181243c53dfbaa89581415b325720aaaffbc6ef3729cfa969b033d21fc5587/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d304f5152314659437541396626666f726d61743d706e67"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="https://github.com/Ronald-02/PowerFit/assets/112557309/482d6995-fc12-4673-946e-2510b9d4c1f9"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-02&theme=blue_navy&border=61dafb&hide_border=true" alt="Ronald-02" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-02&theme=violet-punch&border=6a0dad&hide_border=true&icon_color=800080" alt="Ronald-02" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=blue_navy&border_color=0189&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=highcontrast&border_color=6a0dad&hide_border=true&title_color=8A2BE2&icon_color=0000CD" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=&text_color=ffffff&icon_color=000080&theme=blue_navy&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=8A2BE2&text_color=ffffff&icon_color=6a0dad&theme=highcontrast&langs_count=8&layout=compact&border_color=6a0dad&hide_border=true" />
     </a>
   </div>
-  <br>
-  <br>
-  <br>
+</p>
+  </div>
+ <br>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronald-02&bg_color=131010&color=5a00e0&line=5909aa&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+<br>
   <hr>
   <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronald-02&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 Trophies
+<p align="center"> 
+    <a href="https://github.com/ronald-02">
+        <img src="https://github-profile-trophy.vercel.app/?username=ronald-02&row=1&column=3&theme=kimbie_dark" alt="ronald-02" />
+    </a>  
+</p>
+
+<br>
+<hr/>
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Rio de Janeiro",
+        "abbreviation": "RJ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1,
+              -22.2
+            ],
+            [
+              -44.1,
+              -23.0
+            ],
+            [
+              -43.1,
+              -23.0
+            ],
+            [
+              -43.1,
+              -22.2
+            ],
+            [
+              -44.1,
+              -22.2
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+```
 
 
 
 
-  
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  Leadership is not about being in charge @@
+@@   ❮(|~o.o~|)❯  It's about taking care of those in your charge  @@
+@@   ❮/ \`-'/ \❯                                       @@                        
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (lead=empower() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Coding is a journey, not a destination @@
+@@     |_| |_|   and growth comes from collaboration    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+````
+
+
+
 
 ![github-user-contribution](https://github.com/Ronald-02/Ronald-02/assets/112557309/dee1d9fe-368e-46d1-9f55-2a28980ef064)
 
 
-</div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0189&height=120&section=footer"/>
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/5530cc39-fc58-4ebb-a419-28922f568d8c)
+
+
+
