@@ -1,4 +1,4 @@
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/5530cc39-fc58-4ebb-a419-28922f568d8c)
+  ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/5530cc39-fc58-4ebb-a419-28922f568d8c)
 
 
 <h1 align="center">
@@ -72,7 +72,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-02&theme=violet-punch&border=6a0dad&hide_border=true&icon_color=800080" alt="Ronald-02" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=My Github&show_icons=true&theme=highcontrast&border_color=6a0dad&hide_border=true&title_color=8A2BE2&icon_color=0000CD" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MyGithub&show_icons=true&theme=highcontrast&border_color=6a0dad&hide_border=true&title_color=8A2BE2&icon_color=0000CD" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
