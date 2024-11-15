@@ -66,24 +66,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-02&theme=violet-punch&border=6a0dad&hide_border=true&icon_color=800080" alt="Ronald-02" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=highcontrast&border_color=6a0dad&hide_border=true&title_color=8A2BE2&icon_color=0000CD" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=8A2BE2&text_color=ffffff&icon_color=6a0dad&theme=highcontrast&langs_count=8&layout=compact&border_color=6a0dad&hide_border=true" />
-    </a>
-  </div>
-</p>
-  </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&layout=pie&align=left&width=100&height=900&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=midnight-purple&align=right&width=100&height=100)
+
+
  <br>
+ <hr>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronald-02&bg_color=131010&color=5a00e0&line=5909aa&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
