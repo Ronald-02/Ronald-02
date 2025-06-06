@@ -66,12 +66,17 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div style="display: inline_flex" align = "center">
+<a href="https://github.com/ronald-02">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&layout=pie&align=left&width=100&height=900&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-![ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=midnight-purple&align=right&width=100&height=100)
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronald-02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
 
- <br>
+<a href="https://git.io/streak-stats">
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-02&theme=midnight-purple"/>
+
+</div>
+<br>
  <hr>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronald-02&bg_color=131010&color=5a00e0&line=5909aa&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
