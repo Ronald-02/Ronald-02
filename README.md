@@ -1,12 +1,10 @@
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/5530cc39-fc58-4ebb-a419-28922f568d8c)
 
 
 
 <h1 align="center">
    
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋🏼;I´m+Ronald+Da+Silva..;+Welcome!&center=true&size=40&color=8A2BE2&font=Fira%20Code&width=500&height=100">
-
-   <img align ="right" src="https://komarev.com/ghpvc/?username=ronald-02&label=Profile%20views&color=0e75b6&style=flat" alt="ronald-02">
-
 
   </a>
 </h1>
