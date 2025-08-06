@@ -67,11 +67,18 @@
 <div style="display: inline_flex" align = "center">
 <a href="https://github.com/ronald-02">
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronald-02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img align= "left" height="250" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronald-02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
 
-<a href="https://git.io/streak-stats">
-<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-02&theme=midnight-purple"/>
+<div align="right">
+  <a href="https://github.com/ronald-02/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&layout=pie&theme=midnight-purple" 
+      height="350"
+    />
+  </a>
+</div>
+
 
 </div>
 <br>
