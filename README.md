@@ -93,7 +93,7 @@
 ## 🏆 Trophies
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&rank=S,AAA&theme=onedark&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&rank=S,AAA&theme=onedark)
 
 <br>
 
