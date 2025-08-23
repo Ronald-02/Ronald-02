@@ -92,7 +92,7 @@
 
 ## 🏆 Trophies
 
-https://github-profile-trophy.vercel.app/?username=ronald-02&theme=aura
+![](https://github-trophies.vercel.app/?username=ronald-02)
 
 <br>
 <hr/>
