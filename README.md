@@ -95,7 +95,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&theme=onedark&title=MultiLanguage,Repositories,AchieveSuperRank" alt="Troféus" width="300"/>
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&theme=onedark&title=MultiLanguage,Repositories,AchieveSuperRank" alt="Troféus" width="250"/>
     </td>
   </tr>
 </table>
