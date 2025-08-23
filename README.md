@@ -93,7 +93,9 @@
 ## 🏆 Trophies
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&rank=S,AAA&theme=onedark)
+## 🏆 Meus Troféus do GitHub
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&theme=onedark&no-frame=true&title=MultiLanguage,Repositories,Stars,Followers,Commits)
 
 <br>
 
