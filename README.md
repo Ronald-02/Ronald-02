@@ -93,7 +93,7 @@
 ## 🏆 Trophies
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&theme=onedark&no-frame=true&title=MultiLanguage)
+![](https://github-trophies.vercel.app/?username=ronald-02)
 
 
 <br>
