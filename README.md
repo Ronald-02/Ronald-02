@@ -92,8 +92,11 @@
 
 ## 🏆 Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=ronald-02&theme=radical)
+![Commits](https://img.shields.io/badge/Commits-100%2B-brightgreen?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-50%2B-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-20-blue?style=for-the-badge&logo=github)
+
+
 
 {
   "type": "FeatureCollection",
