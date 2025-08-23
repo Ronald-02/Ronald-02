@@ -92,11 +92,13 @@
 
 ## 🏆 Trophies
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td width="20%">
-      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&theme=onedark&title=MultiLanguage,Repositories,AchieveSuperRank" alt="Troféus" width="400"/>
+    <td width="20%"></td> 
+    <td align="center">
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&theme=onedark&title=MultiLanguage,Repositories,AchieveSuperRank" width="400"/>
     </td>
+    <td width="20%"></td> 
   </tr>
 </table>
 
