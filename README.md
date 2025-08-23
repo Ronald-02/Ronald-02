@@ -92,7 +92,7 @@
 
 ## 🏆 Trophies
 
-![trophy](![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&title=MultiLanguage,Repositories,ExpertDev&theme=Aura)username=ronald-02&title=MultiLanguage,Repositories,ExperienceDev&theme=Aura)
+![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&title=MultiLanguage,Repositories,ExpertDev&theme=Aura)username=ronald-02&title=MultiLanguage,Repositories,ExperienceDev&theme=Aura)
 
 <br><br>
 
