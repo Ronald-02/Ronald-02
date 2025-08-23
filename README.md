@@ -93,7 +93,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&title=MultiLanguage,Repositories,ExpertDev&theme=Aura" alt="Troféus" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&title=MultiLanguage,Repositories,Experience&theme=aura" alt="Troféus" />
 </p>
 
 <br><br>
