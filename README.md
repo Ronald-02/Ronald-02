@@ -92,7 +92,7 @@
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&no-frame=true)](https://github.com/ronald-02/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&no-frame=true)
 
 <br>
 <hr/>
