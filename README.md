@@ -92,7 +92,7 @@
 
 ## 🏆 Trophies
 
- ![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&rank=S,AAA,AA,A)
+![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&title=MultiLanguage,Repositories)
 
 <br>
 
