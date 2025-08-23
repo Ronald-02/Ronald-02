@@ -92,7 +92,7 @@
 
 ## 🏆 Trophies
 
-<table width="100%">
+<table width="100">
   <tr>
     <td width="20%"></td> 
     <td align="center">
