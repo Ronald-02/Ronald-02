@@ -93,7 +93,7 @@
 ## 🏆 Trophies
 <p align="center"> 
     <a href="https://github.com/ronald-02">
-        <img src="https://github-profile-trophy.vercel.app/?username=ronald-02&rank=S,AAA" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ronald-02&rank=S,AAA />
     </a>  
 </p>
 
