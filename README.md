@@ -92,9 +92,12 @@
 
 ## 🏆 Trophies
 
-![Commits](https://img.shields.io/badge/Commits-100%2B-brightgreen?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-50%2B-yellow?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-20-blue?style=for-the-badge&logo=github)
+
+![trophy](https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=ronald-02&theme=onedark&no-frame=true)
+
+
+
+
 
 
 
