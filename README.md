@@ -93,7 +93,7 @@
 ## 🏆 Trophies
 
 
-![trophy](https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=ronald-02&theme=aura&no-frame=true&title=MultiLanguage,Repositories)
+![trophy](https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=ronald-02&theme=onedark&no-frame=true&title=MultiLanguage,Repositories)
 
 
 
