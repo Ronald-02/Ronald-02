@@ -92,7 +92,14 @@
 
 ## 🏆 Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&no-frame=true)
+### 🏆 Meus Troféus do GitHub
+![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=ronald-02&no-frame=true&theme=onedark&v=1)
+
+### 📊 Minhas estatísticas
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=onedark)
+
+### 🔥 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&layout=compact&theme=onedark)
 
 <br>
 <hr/>
