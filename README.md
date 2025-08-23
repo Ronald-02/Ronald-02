@@ -93,7 +93,7 @@
 ## 🏆 Trophies
 
 
-https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&rank=-UNKNOWN,-C
+![trophy](https://github-profile-trophy.vercel.app/?username=ronald-02&rank=S,AAA&theme=onedark&row=1&column=5)
 
 <br>
 
