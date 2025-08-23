@@ -92,37 +92,9 @@
 
 ## 🏆 Trophies
 
-name: Generate Trophy
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronald-02&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=ronald-02&theme=radical)
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # todo dia à meia-noite
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Generate Trophy
-        run: |
-          curl "https://github-profile-trophy.vercel.app/?username=ronald-02&theme=onedark" -o trophy.png
-
-      - name: Commit files
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add trophy.png
-          git commit -m "update trophy"
-          git push
-
-<br>
-<hr/>
-
-
-```geojson
 {
   "type": "FeatureCollection",
   "features": [
