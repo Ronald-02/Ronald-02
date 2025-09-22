@@ -34,7 +34,7 @@
 
 💬 Pergunte-me qualquer coisa por aqui!
 
-📫 Entre em contato: [ronaldtavares190@gmail.com](mailto:ronaldtavares190@gmail.com)
+📫 Entre em contato: [ronald.souza@aluno.cefet-rj.br](mailto:ronald.souza@aluno.cefet-rj.br)
 
 
 <hr>
