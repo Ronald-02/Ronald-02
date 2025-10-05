@@ -4,7 +4,7 @@
 
 <h1 align="center">
    
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋🏼;I´m+Ronald+Da+Silva..;+Welcome!&center=true&size=40&color=8A2BE2&font=Fira%20Code&width=500&height=100">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋🏻;I´m+Ronald+Da+Silva..;+Welcome!&center=true&size=40&color=8A2BE2&font=Fira%20Code&width=500&height=100">
 
   </a>
 </h1>
