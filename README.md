@@ -94,11 +94,11 @@
 
 <table width="100%">
   <tr>
-    <td width="15%"></td> 
+    <td width="20%"></td> 
     <td align="center">
-      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&theme=onedark&title=MultiLanguage,Repositories,AchieveSuperRank" width="1000"/>
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ronald-02&theme=onedark&title=MultiLanguage,Repositories,AchieveSuperRank,Commit,LongTimeUser" width="1000"/>
     </td>
-    <td width="15%"></td> 
+    <td width="20%"></td> 
   </tr>
 </table>
 
