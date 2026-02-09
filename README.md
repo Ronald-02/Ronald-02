@@ -43,18 +43,13 @@
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/intellij-idea.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/706e6f22-9cbe-4e24-9853-35c931edfa3e" alt="Image"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/java-coffee-cup-logo.png" alt="Java"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/1c242d141561009051ae0c43c49cb6f2112b21f8ee3f6be06933d57c411f8f0b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d353532313526666f726d61743d706e67"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/a22bdd659d866fce12317b3787f17afa68417ee7debd1658729e22c9e3c1aed5/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d31313434373426666f726d61743d706e67"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/c50e68b70c7fd4b975ffcaa0e918836a41a7830066fe477511c7c27ec5d59651/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d415a4f5a4e6e59373368616a26666f726d61743d706e67"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/e5181243c53dfbaa89581415b325720aaaffbc6ef3729cfa969b033d21fc5587/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d304f5152314659437541396626666f726d61743d706e67"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://github.com/Ronald-02/PowerFit/assets/112557309/482d6995-fc12-4673-946e-2510b9d4c1f9"></code>
@@ -69,20 +64,8 @@
 
 <img align= "left" height="250" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronald-02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
-
-<div align="right">
-  <a href="https://github.com/ronald-02/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-02&layout=pie&theme=midnight-purple" 
-      height="350"
-    />
-  </a>
-</div>
-
-
 </div>
 <br>
- <hr>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronald-02&bg_color=131010&color=5a00e0&line=5909aa&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
